@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    1 - Acordo e abro os olhos
+   1 - Acordo e abro os olhos
     2 - levanto da cama e vou ao banheiro
     3 - escovo os dentes e lavo o rosto
     4 - seco o rosto
@@ -18,6 +18,7 @@ programa {
       2 - destranco a porta
       3 - abro a porta e saio
       4 - tranco ela por fora e saio em direção ao trabalho
+    13 - fim.
     
   }
 }
